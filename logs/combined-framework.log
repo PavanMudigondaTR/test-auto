@@ -1,0 +1,382 @@
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] [ Initializing Framework ]..."}
+{"level":"info","message":"[FRAMEWORK] [ Skipping environment variable checks ]..."}
+{"level":"info","message":"[FRAMEWORK] Checking required env variables"}
+{"level":"info","message":"[FRAMEWORK] ENV CHECK: false"}
+{"level":"info","message":"[FRAMEWORK] Initialising Page Object Provider..."}
+{"level":"info","message":"[FRAMEWORK] Initialising navigateTo helper..."}
+{"level":"info","message":"[FRAMEWORK] Loading test page..."}
